@@ -1,7 +1,7 @@
 # Responsive Landing Page Headphones 🎧
 
 ### Link 
-https://travel-addy.netlify.app/
+https://beats-addy.netlify.app/
 
 ### Responsive Landing Page Headphones 🎧
 
